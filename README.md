@@ -20,9 +20,9 @@ Four skills, one adapter, and a starter `CLAUDE.md` template.
 
 | Skill | What it does |
 |---|---|
-| [`implement`](skills/implement.md) | Spawn a parallel agent team to implement work items using double-loop BDD/TDD. |
 | [`decompose`](skills/decompose.md) | Break a plan into small, independent work items with observable acceptance criteria. |
 | [`refine`](skills/refine.md) | 3-4 pass review of work items to catch scope creep, ambiguity, and hidden dependencies. |
+| [`implement`](skills/implement.md) | Spawn a parallel agent team to implement work items using double-loop BDD/TDD. |
 | [`preflight`](skills/preflight.md) | Pre-push safety check: tests, scope, unauthorized config changes. |
 
 Plus:

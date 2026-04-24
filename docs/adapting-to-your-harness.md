@@ -9,7 +9,7 @@ The files in `skills/` are ready to drop in.
 - **User-wide** (available in every project on your machine): copy `skills/*.md` into `~/.claude/skills/` (or wherever your Claude Code install looks for skills; earlier versions used `~/.claude/commands/`).
 - **Project-scoped** (only in this repo): copy into `.claude/skills/` in the project root.
 
-Then invoke as slash commands: `/implement`, `/decompose`, `/refine`, `/preflight`.
+Then invoke as slash commands: `/decompose`, `/refine`, `/implement`, `/preflight`.
 
 ## GitHub Copilot Chat
 
